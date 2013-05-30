@@ -32,3 +32,5 @@ x staged new files are stashed
 x unstaged new files are not stashed
 x staged and unstaged modification are stashed
 x staged modifications are only applied with --index
+
+Week 5 Exercise 8 - recovery of deleted file
