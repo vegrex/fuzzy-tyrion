@@ -25,3 +25,10 @@ Week 5 Exercise 6 - done
 - added tag tagi1a for HEAD^^ when on master
 - gitk displayed tags for the commits
 - git status told "Not currently on any branch" when checking out tag
+
+Week 5 Exercise 7 - done
+- tested both new files and modifications with stash:
+x staged new files are stashed
+x unstaged new files are not stashed
+x staged and unstaged modification are stashed
+x staged modifications are only applied with --index
