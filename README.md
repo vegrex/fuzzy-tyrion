@@ -17,3 +17,11 @@ Week 5 Exercise 6 - tags
 - change one
 - change two
 - change three
+
+Week 5 Exercise 6 - done
+- added tag tagi1 before changes above
+- added tag tagi2 after changes above
+- added tag tagi1b for HEAD^ when on master
+- added tag tagi1a for HEAD^^ when on master
+- gitk displayed tags for the commits
+- git status told "Not currently on any branch" when checking out tag
