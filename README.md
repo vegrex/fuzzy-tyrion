@@ -43,3 +43,8 @@ Week 5 Exercise 9 - done
 - committed changes on both master and haara (added yyy to haara)
 - viewed branches with gitk --all
 - made haara the new master by git reset --hard haara
+
+Week 6 Exercise 1 - done
+- rebased haara onto master
+- fast-forwarded by merge
+- deleted branch by issuing git branch -d haara
