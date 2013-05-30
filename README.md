@@ -36,3 +36,10 @@ x staged modifications are only applied with --index
 Week 5 Exercise 8 - done
 - recovery of deleted file
 - eight chars of the hexadecimal commit id string worked fine to check it out
+
+Week 5 Exercise 9 - done
+- reverted bad commit
+- added branch haara
+- committed changes on both master and haara (added yyy to haara)
+- viewed branches with gitk --all
+- made haara the new master by git reset --hard haara
