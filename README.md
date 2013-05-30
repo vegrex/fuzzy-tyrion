@@ -12,3 +12,6 @@ Week 5 Exercise 5 - done
 - created tracking branch ohtu-lokaali
 - added folder viikko2 from tracking branch to master and committed
 - pushed master to origin and b (drunken-hipster)
+
+Week 5 Exercise 6 - tags
+- change one
