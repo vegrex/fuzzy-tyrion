@@ -33,4 +33,6 @@ x unstaged new files are not stashed
 x staged and unstaged modification are stashed
 x staged modifications are only applied with --index
 
-Week 5 Exercise 8 - recovery of deleted file
+Week 5 Exercise 8 - done
+- recovery of deleted file
+- eight chars of the hexadecimal commit id string worked fine to check it out
